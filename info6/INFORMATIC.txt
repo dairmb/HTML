@@ -1,0 +1,27 @@
+<HTML>
+<HEAD>
+<TITLE>Instragram¿Que es?</TITLE>
+</HEAD>
+<FONT COLOR= MediumTurquoise>
+<H1><FONT FACE="courier" size=5> <CENTER>Instagram:Una de las redes mas solicitadas</CENTER></H1>
+<BODY<
+<BODY BGCOLOR=Pink>
+<FONT COLOR= Black> 
+<FONT FACE="arial" size=3>
+<ALIGN=left>
+<br>Instagram es una red y/o aplicacion de Facebook cuya funcion es el compartir fotos
+ y videos a otras personas por todo el mundo.</br>
+Creada el 6 de Octubre de 2010,
+ esta aplicación en 2012 llego
+ a los 100 millones y mas de 300 millones en 2014,</br>
+Al principio solo fue creada para iPhone pero paso el tiempo y en Abril del 
+2012 se Lanzó la version para android 
+</ALIGN=left>
+<img src=redes.PNG ALIGN=RIGHT> 
+<h1>
+<h1>
+<h1>
+<h1>
+<h1>
+<h1>
+Instagram también posee un medio de comunicación privado para hablar llamado Instagram Direct, y una función llamada Historias (en inglés, Stories) donde todas las personas pueden publicar fotografías y vídeos temporales a su perfil, agregando variados filtros y efectos, con una duración máxima de permanencia de 24 horas; que también se pueden guardar en el perfil permanentemente para que puedan ser vistos, como «Historias destacadas».
